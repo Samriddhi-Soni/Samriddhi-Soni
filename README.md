@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/012/720/075/small/cloud-computing-social-media-banner-hi-tech-cloud-connection-technology-linkedin-cover-internet-business-technology-header-global-data-information-exchange-background-illustration-vector.jpg)
+![MasterHead](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2023/09/CRM-data-strategy.jpg)
 
 
 <h1 align="center">Hello, I'm Samriddhi Soni</h1>
