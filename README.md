@@ -7,7 +7,13 @@
 
 <img align="right" alt="coding" width=400 src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
 
-- 🌱 My recent work experience: **Data Analyst at Novo Nordisk Inc., Statistical Analyst at Columbia University**
+- 🌱 Work experience
+  
+   1. **Data Analytics and Modelling Co-op Student - Novo Nordisk Inc.**
+  
+   2. **Statistics Grdauate Research Assistant - Columbia University**
+ 
+   3. **Data Analytics Summer Intern - Novo Nordisk Inc.**
 
 - 🔭 Project Domain
 
@@ -21,7 +27,7 @@
 
 - 💬 Reach out to me for following full-time positions: **Data Scientist, Data Analyst, Business Intelligence Analyst**
 
-- 📫 How to reach me **ss6557@tc.columbia.edu**
+- 📫 How to reach me: **ss6557@tc.columbia.edu**
 
 - 📄 Know about my work experience and education background: [Resume](https://drive.google.com/file/d/16TXm3NTfJWHYaYOjpTeJt_qLnTFTzvU3/view?usp=sharing)
 
