@@ -1,4 +1,4 @@
-![MasterHead](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2023/09/CRM-data-strategy.jpg)
+![MasterHead](1-img.jpg)
 
 
 <h1 align="center">Hello, I'm Samriddhi Soni</h1>
