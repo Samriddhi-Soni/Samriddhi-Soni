@@ -20,7 +20,7 @@
   **Healthcare and Pharmaceutical Manufacturing**
   1. [Exploring the Interplay using advanced analytics: Assessing Diabetes Risk through Physiological Health Metrics](https://github.com/Samriddhi-Soni/Unraveling-Diabetes-Risk-Insights-from-Health-Metrics-and-Demographics)
   
-  2. [Unveiling Obesity Dynamics: A Machine Learning Approach to Socio-Economic and Demographic Influences](https://github.com/Samriddhi-Soni/Unveiling-Obesity-Dynamics-A-Machine-Learning-Approach-to-Socio-Economic-and-Demographic-Influences)
+  2. [Unveiling Obesity dynamics in Allegheny county- A Comprehensive Statistical Analysis of Health and Environmental Factors](https://github.com/Samriddhi-Soni/Unveiling-Obesity-Dynamics-A-Machine-Learning-Approach-to-Socio-Economic-and-Demographic-Influences)
 
   **Education**
   1. [Data-Driven Pathways to Academic Success: Unveiling the Impact of Family Background, Reading Patterns, and STEM Performance with Predictive Analytics](https://github.com/Samriddhi-Soni/Pathways-to-Academic-Success-with-Predictive-Analytics)
