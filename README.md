@@ -11,13 +11,13 @@
   
    1. **Data Analytics and Modelling Co-op Student - Novo Nordisk Inc.**
   
-   2. **Statistics Grdauate Research Assistant - Columbia University**
+   2. **Statistics Research Assistant - Columbia University Medical Centre**
  
    3. **Data Analytics Summer Intern - Novo Nordisk Inc.**
 
 - 🔭 Project Domain
 
-  **Healthcare and Pharmaceutical Manufacturing**
+  **Healthcare, Epidemiology and Population Health**
   1. [Exploring the Interplay using advanced analytics: Assessing Diabetes Risk through Physiological Health Metrics](https://github.com/Samriddhi-Soni/Unraveling-Diabetes-Risk-Insights-from-Health-Metrics-and-Demographics)
   
   2. [Unveiling Obesity dynamics in Allegheny county- A Comprehensive Statistical Analysis of Health and Environmental Factors](https://github.com/Samriddhi-Soni/Unveiling-Obesity-Dynamics-A-Machine-Learning-Approach-to-Socio-Economic-and-Demographic-Influences)
@@ -25,7 +25,7 @@
   **Education**
   1. [Data-Driven Pathways to Academic Success: Unveiling the Impact of Family Background, Reading Patterns, and STEM Performance with Predictive Analytics](https://github.com/Samriddhi-Soni/Pathways-to-Academic-Success-with-Predictive-Analytics)
 
-- 💬 Reach out to me for following full-time positions: **Data Scientist, Data Analyst, Business Intelligence Analyst**
+- 💬 Reach out to me for following full-time positions: **Statistician, Data Scientist, Data Analyst, Business Intelligence Analyst**
 
 - 📫 How to reach me: **ss6557@tc.columbia.edu**
 
