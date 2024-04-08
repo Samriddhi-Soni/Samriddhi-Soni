@@ -20,7 +20,7 @@
   **Healthcare, Epidemiology and Population Health**
   1. [Risk of Diabetes-Statistical analysis of comorbidity, physiological and demographic-factors](https://github.com/Samriddhi-Soni/Risk-of-Diabetes--Statistical-analysis-of-comorbidity-physiological-and-demographic-factors)
   
-  2. [Unveiling Obesity dynamics in Allegheny county- A Comprehensive Statistical Analysis of Health and Environmental Factors](https://github.com/Samriddhi-Soni/Risk-of-Diabetes--Statistical-analysis-of-comorbidity-physiological-and-demographic-factors)
+  2. [Unveiling Obesity dynamics in Allegheny county- A Comprehensive Statistical Analysis of Health and Environmental Factors](https://github.com/Samriddhi-Soni/Unveiling-obesity-dynamics-in-Allegheny-Statistical-Analysis-of-health-and-environment-factors/blob/1fccf5c0a6db079272d19f8632aa083850a7acb4)
 
   **Education**
   1. [Data-Driven Pathways to Academic Success: Unveiling the Impact of Family Background, Reading Patterns, and STEM Performance with Predictive Analytics](https://github.com/Samriddhi-Soni/Pathways-to-Academic-Success-with-Predictive-Analytics)
