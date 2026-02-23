@@ -3,17 +3,17 @@
 
 <h1 align="center">Hello, I'm Samriddhi Soni</h1>
 
-<h3 align="center">I am data nerd with a passion for using analytics to solve problems and drive business impact. I get excited about extracting insights from complex datasets to guide strategy. I have recently graduated from MS in Applied Statistics at Columbia University and looking for full time opportunities as Data Scientist/Data Analyst/Business Analyst.</h3>
+<h3 align="center">I am data nerd with a passion for using analytics to solve problems and drive business impact. I get excited about extracting insights from complex datasets to guide strategy.</h3>
 
 <img align="right" alt="coding" width=400 src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
 
 - 🌱 Work experience
   
-   1. **Data Analytics and Modelling Co-op Student - Novo Nordisk Inc.**
+   1. **Analyst - Sales Insights - Novo Nordisk Inc.**
   
-   2. **Statistics Research Assistant - Columbia University Medical Centre**
+   2. **Statistics Research Assistant - Columbia University**
  
-   3. **Data Analytics Summer Intern - Novo Nordisk Inc.**
+   3. **Data Analytics Summer Intern and Co-op student - Novo Nordisk Inc.**
 
 - 🔭 Project Domain
 
