@@ -25,13 +25,11 @@
   **Education**
   1. [Data-Driven Pathways to Academic Success: Unveiling the Impact of Family Background, Reading Patterns, and STEM Performance with Predictive Analytics](https://github.com/Samriddhi-Soni/Pathways-to-Academic-Success-with-Predictive-Analytics)
 
-- 💬 Reach out to me for following full-time positions: **Statistician, Data Scientist, Data Analyst, Business Intelligence Analyst**
+- 💬 Reach out to me for following full-time positions: **Data Scientist, ML Engineer, Business Intelligence Analyst**
 
 - 📫 How to reach me: **ss6557@tc.columbia.edu**
 
-- 📄 Know about my work experience and education background: [Resume](https://drive.google.com/file/d/16TXm3NTfJWHYaYOjpTeJt_qLnTFTzvU3/view?usp=sharing)
-
-- ⚡ Interested to work in industries: **Healthcare, Technology and IT, Pharmaceutical Manufacturing, Education, Finance, Retail, Manufacturing and Advertising**
+- ⚡ Interested to work in industries: **Healthcare and Life Science, Technology and IT, Finance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
