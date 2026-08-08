@@ -7,14 +7,6 @@
 
 <img align="right" alt="coding" width=400 src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
 
-- 🌱 Work experience
-  
-   1. **Analyst - Sales Insights - Novo Nordisk Inc.**
-  
-   2. **Statistics Research Assistant - Columbia University**
- 
-   3. **Data Analytics Summer Intern and Co-op student - Novo Nordisk Inc.**
-
 - 🔭 Project Domain
 
   **Healthcare, Epidemiology and Population Health**
