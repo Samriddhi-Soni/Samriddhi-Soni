@@ -19,8 +19,6 @@
 
 - 💬 Reach out to me for following full-time positions: **Data Scientist, ML Engineer, Business Intelligence Analyst**
 
-- 📫 How to reach me: **ss6557@tc.columbia.edu**
-
 - ⚡ Interested to work in industries: **Healthcare and Life Science, Technology and IT, Finance**
 
 <h3 align="left">Connect with me:</h3>
